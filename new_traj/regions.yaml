@@ -1,0 +1,35 @@
+# This is an example region file
+
+p1:
+  name: pit_box
+  code: 1
+  file: putnam pit stop box_enu.csv
+p2:
+  name: pit_entry_close
+  code: 2
+  file: PUTNAM_REGION_PIT_ENTRY_CLOSE_enu.csv
+
+p3:
+  name: pit_entry
+  code: 3
+  file: PUTNAM_REGION_PIT_ENTRY_enu.csv
+
+p4:
+  name: pit_exit
+  code: 4
+  file: PUTNAM_REGION_PIT_EXIT_enu.csv
+
+p5:
+  name: pit_lane
+  code: 5
+  file: PUTNAM_REGION_PIT_LANE_enu.csv
+
+p6:
+  name: pit_road_in
+  code: 6
+  file: PUTNAM_REGION_PIT_ROAD_IN_enu.csv
+
+p7:
+  name: pit_road_out
+  code: 7
+  file: PUTNAM_REGION_PIT_ROAD_OUT_enu.csv
