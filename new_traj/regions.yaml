@@ -4,10 +4,10 @@ p1:
   name: pit_box
   code: 1
   file: putnam pit stop box_enu.csv
-p2:
-  name: pit_entry_close
-  code: 2
-  file: PUTNAM_REGION_PIT_ENTRY_CLOSE_enu.csv
+# p2:
+#   name: pit_entry_close
+#   code: 2
+#   file: PUTNAM_REGION_PIT_ENTRY_CLOSE_enu.csv
 
 p3:
   name: pit_entry

@@ -3,8 +3,8 @@
 outside_wall:
   name: outside_wall
   type: ring # ring or line
-  file: PUTNAM_BOUND_A_PIT_LEFT_enu.csv
+  file: PUTNAM_BOUND_B_PIT_LEFT_enu.csv
 inside_wall:
   name: inside_wall
   type: ring # ring or line
-  file: PUTNAM_BOUND_A_PIT_RIGHT_enu.csv
+  file: PUTNAM_BOUND_B_PIT_RIGHT_enu.csv
