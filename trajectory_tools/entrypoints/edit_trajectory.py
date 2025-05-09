@@ -1,7 +1,8 @@
 from math import inf
 
 import numpy as np
-
+import matplotlib
+matplotlib.use('Qt5Agg')  
 from matplotlib.backend_bases import MouseButton
 from matplotlib.path import Path
 from matplotlib.patches import PathPatch
